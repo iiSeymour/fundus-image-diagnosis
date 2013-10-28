@@ -1,0 +1,16 @@
+204  fundus      classifier 12        37.78%
+204  fundus      classifier 13        37.78%
+204  fundus      classifier 14        35.56%
+204  fundus      classifier 15        36.67%
+204  diabetic    classifier 12        71.11%
+204  diabetic    classifier 13        71.11%
+204  diabetic    classifier 14        67.41%
+204  diabetic    classifier 15        66.67%
+204  glaucoma    classifier 12        64.44%
+204  glaucoma    classifier 13        64.44%
+204  glaucoma    classifier 14        64.44%
+204  glaucoma    classifier 15        63.89%
+204  healthy     classifier 12        46.67%
+204  healthy     classifier 13        46.67%
+204  healthy     classifier 14        45.93%
+204  healthy     classifier 15        47.22%

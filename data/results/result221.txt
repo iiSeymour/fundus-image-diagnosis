@@ -1,0 +1,16 @@
+221  fundus      classifier 12        40.00%
+221  fundus      classifier 13        40.00%
+221  fundus      classifier 14        40.74%
+221  fundus      classifier 15        44.44%
+221  diabetic    classifier 12        62.22%
+221  diabetic    classifier 13        62.22%
+221  diabetic    classifier 14        62.96%
+221  diabetic    classifier 15        63.33%
+221  glaucoma    classifier 12        68.89%
+221  glaucoma    classifier 13        68.89%
+221  glaucoma    classifier 14        68.15%
+221  glaucoma    classifier 15        72.78%
+221  healthy     classifier 12        51.11%
+221  healthy     classifier 13        51.11%
+221  healthy     classifier 14        51.11%
+221  healthy     classifier 15        55.56%

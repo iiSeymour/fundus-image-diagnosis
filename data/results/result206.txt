@@ -1,0 +1,16 @@
+206  fundus      classifier 12        37.78%
+206  fundus      classifier 13        37.78%
+206  fundus      classifier 14        37.78%
+206  fundus      classifier 15        38.89%
+206  diabetic    classifier 12        71.11%
+206  diabetic    classifier 13        71.11%
+206  diabetic    classifier 14        68.89%
+206  diabetic    classifier 15        69.44%
+206  glaucoma    classifier 12        68.89%
+206  glaucoma    classifier 13        68.89%
+206  glaucoma    classifier 14        66.67%
+206  glaucoma    classifier 15        67.22%
+206  healthy     classifier 12        46.67%
+206  healthy     classifier 13        46.67%
+206  healthy     classifier 14        47.41%
+206  healthy     classifier 15        47.22%

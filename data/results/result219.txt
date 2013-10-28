@@ -1,0 +1,16 @@
+219  fundus      classifier 12        37.78%
+219  fundus      classifier 13        37.78%
+219  fundus      classifier 14        39.26%
+219  fundus      classifier 15        43.89%
+219  diabetic    classifier 12        60.00%
+219  diabetic    classifier 13        60.00%
+219  diabetic    classifier 14        60.74%
+219  diabetic    classifier 15        62.78%
+219  glaucoma    classifier 12        73.33%
+219  glaucoma    classifier 13        73.33%
+219  glaucoma    classifier 14        71.85%
+219  glaucoma    classifier 15        73.89%
+219  healthy     classifier 12        48.89%
+219  healthy     classifier 13        48.89%
+219  healthy     classifier 14        49.63%
+219  healthy     classifier 15        54.44%

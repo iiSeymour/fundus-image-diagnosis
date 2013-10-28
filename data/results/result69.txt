@@ -1,0 +1,16 @@
+69   fundus      classifier 12        57.78%
+69   fundus      classifier 13        57.78%
+69   fundus      classifier 14        58.52%
+69   fundus      classifier 15        57.78%
+69   diabetic    classifier 12        62.22%
+69   diabetic    classifier 13        62.22%
+69   diabetic    classifier 14        63.70%
+69   diabetic    classifier 15        67.22%
+69   glaucoma    classifier 12        82.22%
+69   glaucoma    classifier 13        82.22%
+69   glaucoma    classifier 14        80.00%
+69   glaucoma    classifier 15        78.89%
+69   healthy     classifier 12        68.89%
+69   healthy     classifier 13        68.89%
+69   healthy     classifier 14        70.37%
+69   healthy     classifier 15        68.89%

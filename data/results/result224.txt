@@ -1,0 +1,16 @@
+224  fundus      classifier 12        48.89%
+224  fundus      classifier 13        48.89%
+224  fundus      classifier 14        46.67%
+224  fundus      classifier 15        45.00%
+224  diabetic    classifier 12        64.44%
+224  diabetic    classifier 13        64.44%
+224  diabetic    classifier 14        62.22%
+224  diabetic    classifier 15        60.56%
+224  glaucoma    classifier 12        64.44%
+224  glaucoma    classifier 13        64.44%
+224  glaucoma    classifier 14        63.70%
+224  glaucoma    classifier 15        62.78%
+224  healthy     classifier 12        66.67%
+224  healthy     classifier 13        66.67%
+224  healthy     classifier 14        63.70%
+224  healthy     classifier 15        63.89%

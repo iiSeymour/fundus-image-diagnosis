@@ -1,0 +1,16 @@
+254  fundus      classifier 12        55.56%
+254  fundus      classifier 13        55.56%
+254  fundus      classifier 14        52.59%
+254  fundus      classifier 15        49.44%
+254  diabetic    classifier 12        73.33%
+254  diabetic    classifier 13        73.33%
+254  diabetic    classifier 14        71.85%
+254  diabetic    classifier 15        70.56%
+254  glaucoma    classifier 12        71.11%
+254  glaucoma    classifier 13        71.11%
+254  glaucoma    classifier 14        69.63%
+254  glaucoma    classifier 15        67.78%
+254  healthy     classifier 12        66.67%
+254  healthy     classifier 13        66.67%
+254  healthy     classifier 14        66.67%
+254  healthy     classifier 15        66.11%

@@ -1,0 +1,16 @@
+212  fundus      classifier 12        51.11%
+212  fundus      classifier 13        51.11%
+212  fundus      classifier 14        48.15%
+212  fundus      classifier 15        45.56%
+212  diabetic    classifier 12        64.44%
+212  diabetic    classifier 13        64.44%
+212  diabetic    classifier 14        62.96%
+212  diabetic    classifier 15        62.78%
+212  glaucoma    classifier 12        73.33%
+212  glaucoma    classifier 13        73.33%
+212  glaucoma    classifier 14        71.85%
+212  glaucoma    classifier 15        67.22%
+212  healthy     classifier 12        66.67%
+212  healthy     classifier 13        66.67%
+212  healthy     classifier 14        61.48%
+212  healthy     classifier 15        61.67%

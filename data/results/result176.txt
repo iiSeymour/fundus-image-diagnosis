@@ -1,0 +1,16 @@
+176  fundus      classifier 12        37.78%
+176  fundus      classifier 13        37.78%
+176  fundus      classifier 14        37.78%
+176  fundus      classifier 15        38.33%
+176  diabetic    classifier 12        55.56%
+176  diabetic    classifier 13        55.56%
+176  diabetic    classifier 14        55.56%
+176  diabetic    classifier 15        56.11%
+176  glaucoma    classifier 12        64.44%
+176  glaucoma    classifier 13        64.44%
+176  glaucoma    classifier 14        64.44%
+176  glaucoma    classifier 15        63.89%
+176  healthy     classifier 12        57.78%
+176  healthy     classifier 13        57.78%
+176  healthy     classifier 14        58.52%
+176  healthy     classifier 15        61.11%
