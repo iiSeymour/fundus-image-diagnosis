@@ -1,4 +1,4 @@
 fundus-image-diagnosis
 ======================
 
-Automated diagnosis of ophtalmic conditions based on retinal image processing and machine learning techniques
+Automated diagnosis of ophthalmic conditions based on retinal image processing and machine learning techniques
